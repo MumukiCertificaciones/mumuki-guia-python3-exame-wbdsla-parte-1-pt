@@ -7,7 +7,7 @@
 falso
 ム perde_tabu("essa frase não perde", ["sim", "não"])
 Verdadeiro
-ム perdera_tabu("sob a nogueira", ["acima", "árvore", "sombra", "noz"])
+ム perdera_tabu("debaixo a nogueira", ["acima", "árvore", "sombra", "noz"])
 falso
 ```
 

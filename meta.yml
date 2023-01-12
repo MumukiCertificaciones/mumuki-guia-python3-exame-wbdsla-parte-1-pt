@@ -6,5 +6,8 @@ beta: false
 teacher_info: ''
 language: python3
 id_format: "%05d"
-order: []
+order:
+- 1
+- 2
+- 3
 private: false

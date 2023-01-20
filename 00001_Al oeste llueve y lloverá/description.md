@@ -1,20 +1,20 @@
-Antes de ir a dormir Ale mira el pronóstico del día siguiente para vestirse de manera acorde :closed_umbrella:. Para ello necesita una función que, a partir de la probabilidad de lluvia y de un booleano que le dice si va a haber viento o no, le haga un resumen:
+Antes de dormir, Ale olha a previsão do dia seguinte para se vestir de acordo :closed_umbrella:. Para fazer isso, precisa de uma função que, com base na probabilidade de chuva e um booleano que diz se vai ter vento ou não, dá um resumo:
 
 ```python
-ム $pronostico(20, True)
-"Mañana hay bajas probabilidades de lluvia con viento"
+ム $forecast(20, Verdadeiro)
+"Amanhã há poucas chances de chuva com vento"
 
-ム $pronostico(40, True)
-"Mañana hay medias probabilidades de lluvia con viento"
+ム $forecast(40, Verdadeiro)
+"Amanhã há chances médias de chuva com vento"
 
-ム $pronostico(80, False)
-"Mañana hay altas probabilidades de lluvia sin viento"
+ム $forecast(80, Falso)
+"Amanhã há grandes chances de chuva sem vento"
 ```
 
-Tené en cuenta que:
+Eu tinha em mente que:
 
-* si hay menos de 30% de probabilidades de lluvia, consideramos que son bajas;
-* si hay más de $corteAlta%, consideraremos que son altas
-en caso contrario, consideraremos que son medias.
+* se houver menos de 30% de chance de chuva, consideramos baixa;
+* se houver mais de $corteAlta%, vamos considerá-los altos
+caso contrário, consideraremos que são médias.
 
-> Definí la función `$pronostico`.
+> Eu defini a função `$forecast`.

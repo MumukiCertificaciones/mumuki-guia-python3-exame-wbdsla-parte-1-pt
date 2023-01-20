@@ -1,5 +1,5 @@
 --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-pronostico: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+forecast: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   type: one_of
   value:
   - pronostico

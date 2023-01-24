@@ -13,8 +13,8 @@ Antes de dormir, Ale olha a previsão do dia seguinte para se vestir de acordo :
 
 Eu tinha em mente que:
 
-* :sunny: se houver menos de 30% de chance de chuva, consideramos baixas;
-* :thunder_cloud_rain: se houver mais de $corteAlta%, vamos considerá-las altas;
-* :cloud: caso contrário, consideraremos que são médias.
+* :sunny: se houver menos de 30% de chance de chuva, consideramos _poucas_;
+* :thunder_cloud_rain: se houver mais de $corteAlta%, vamos considerá-las _grandes_;
+* :cloud: caso contrário, consideraremos que são _médias_.
 
 > Defina a função `$forecast`.

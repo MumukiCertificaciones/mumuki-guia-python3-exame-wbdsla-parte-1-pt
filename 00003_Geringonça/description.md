@@ -1,15 +1,18 @@
-El jeringozo es una forma de hablar en la que detrás de cada vocal de una palabra, la repetimos precedida por la letra "p". Es decir, si encontramos la vocal "o", añadiremos la sílaba "po", si encontramos la vocal "a", añadiremos "pa" y así. 
+A _jeringoza_ (geringonça) é uma forma lúdica de falar em que após cada vogal de uma palavra, a repetimos precedida da letra "p" . Ou seja, se encontrarmos a vogal "o", adicionaremos a sílaba "po", se encontrarmos a vogal "a", adicionaremos "pa" e assim por diante.
 
-Éstos son algunos ejemplos:
+Estes são alguns exemplos:
 
-* "Hola" :arrow_right: "Hopolapa"
 * "Casa" :arrow_right: "Capasapa"
-* "Perro" :arrow_right: "Peperropo"
-* "Carpincho" :arrow_right: "Caparpipinchopo"
+* "Gato" :arrow_right: "Gapatopo"
+* "Espelho" :arrow_right: "Epespepelhopo"
+* "Abacaxi" :arrow_right: "Apabapacapaxipi"
 
-> Sabiendo ésto, definir una función `jeringozo` que tome una palabra y la convierta en su variante jeringoza:
+
+> Sabendo disso, defina uma função `$function` que pega uma palavra e a converte em sua variante sem sentido:
 >
 > ```python
-> ム jeringozo("espejo")
-> "epespepejopo"
+> ム $function("gato")
+> "gapatopo"
+> ム $function("espelho")
+> "epespepelhopo"
 > ```

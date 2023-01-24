@@ -5,7 +5,7 @@ Antes de dormir, Ale olha a previsão do dia seguinte para se vestir de acordo :
 "Amanhã há poucas chances de chuva com vento"
 
 ム $forecast(40, True)
-"Amanhã há chances médias de chuva com vento"
+"Amanhã há médias chances de chuva com vento"
 
 ム $forecast(80, False)
 "Amanhã há grandes chances de chuva sem vento"

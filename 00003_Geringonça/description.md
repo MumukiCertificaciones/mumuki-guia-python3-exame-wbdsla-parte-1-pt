@@ -2,11 +2,10 @@ A _jeringoza_ (geringonça) é uma forma lúdica de falar em que após cada voga
 
 Estes são alguns exemplos:
 
-* "Casa" :arrow_right: "Capasapa"
-* "Gato" :arrow_right: "Gapatopo"
-* "Espelho" :arrow_right: "Epespepelhopo"
-* "Abacaxi" :arrow_right: "Apabapacapaxipi"
-
+* :house: `"Casa"` :arrow_right: `"Capasapa"`
+* :cat: `"Gato"` :arrow_right: `"Gapatopo"`
+* :sparkles: `"Espelho"` :arrow_right: `"Epespepelhopo"`
+* :pineapple: `"Abacaxi"` :arrow_right: `"Apabapacapaxipi"`
 
 > Sabendo disso, defina uma função `$function` que pega uma palavra e a converte em sua variante sem sentido:
 >

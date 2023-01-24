@@ -1,7 +1,7 @@
 class Test(unittest.TestCase):
 
   def test_casa(self):
-	  self.assertEquals($function("Casa"), "Casapa", '$function("Casa") deve retornar "Capasapa"')
+	  self.assertEquals($function("Casa"), "Capasapa", '$function("Casa") deve retornar "Capasapa"')
 
   def test_gato(self ):
 	  self .assertEquals($function("Gato"), "Gapatopo", '$function("Gato") deve retornar "Gapatopo"')

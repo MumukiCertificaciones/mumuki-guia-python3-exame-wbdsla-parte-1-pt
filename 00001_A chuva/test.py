@@ -1,7 +1,7 @@
 class Test(unittest.TestCase):
 
   def test_exemplo_1(self):
-    self.assertEquals($forecast(20, True), "Amanhã há poucas chances de chuva com vento")
+    self.assertEquals ($forecast(20, True), "Amanhã há poucas chances de chuva com vento")
 
   def test_exemplo_2(self):
     self.assertEquals($forecast(40, True), "Amanhã há poucas chances de chuva com vento")

@@ -4,11 +4,11 @@
 
 ```python
 ム perde_tabu("essa frase vence", ["branco", "preto"])
-falso
-ム perde_tabu("essa frase não perde", ["sim", "não"])
-Verdadeiro
+False
+ム perde_tabu("essa frase não vence", ["sim", "não"])
+True
 ム perdera_tabu("debaixo a nogueira", ["acima", "árvore", "sombra", "noz"])
-falso
+False
 ```
 
 :warning: Para resolver este problema, você achará útil a função `str.split`, que, entre outras coisas, permite dividir uma string em palavras:

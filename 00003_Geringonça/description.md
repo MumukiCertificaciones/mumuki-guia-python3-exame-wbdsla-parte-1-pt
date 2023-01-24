@@ -7,7 +7,7 @@ Estes são alguns exemplos:
 * :sparkles: `"Espelho"` :arrow_right: `"Epespepelhopo"`
 * :pineapple: `"Abacaxi"` :arrow_right: `"Apabapacapaxipi"`
 
-> Sabendo disso, defina uma função `$function` que pega uma palavra e a converte em sua variante sem sentido:
+> Sabendo disso, defina uma função `$function` que pega uma palavra e a converte em sua variante _jeringoza_:
 >
 > ```python
 > ム $function("gato")

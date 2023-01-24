@@ -7,10 +7,10 @@ class Test(unittest.TestCase):
 	  self .assertEquals($function("Gato"), "Gapatopo", '$function("Gato") deve retornar "Gapatopo"')
 
   def test_rato(self):
-  	self.assertEquals($function("rato")), "rapatopo", '$function("rato") deve retornar "rapatopo"')
+  	self.assertEquals($function("rato"), "rapatopo", '$function("rato") deve retornar "rapatopo"')
 
   def test_abacaxi(self):
-  	self.assertEquals($function("abacaxi")), "Apabapacapaxipi", '$function("abacaxi") deve retornar "Apabapacapaxipi"')
+  	self.assertEquals($function("abacaxi"), "Apabapacapaxipi", '$function("abacaxi") deve retornar "Apabapacapaxipi"')
 
   def test_espelho(self):
-  	self.assertEquals($function("espelho")), "epespepelhopo", '$function("espelho") deve retornar "epespepelhopo"')
+  	self.assertEquals($function("espelho"), "epespepelhopo", '$function("espelho") deve retornar "epespepelhopo"')

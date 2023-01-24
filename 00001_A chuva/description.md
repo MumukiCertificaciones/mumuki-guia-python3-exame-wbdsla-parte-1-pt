@@ -14,6 +14,7 @@ Antes de dormir, Ale olha a previsão do dia seguinte para se vestir de acordo :
 Eu tinha em mente que:
 
 * se houver menos de 30% de chance de chuva, consideramos baixas;
-* se houver mais de $corteAlta%, vamos considerá-las altas; caso contrário, consideraremos que são médias.
+* se houver mais de $corteAlta%, vamos considerá-las altas;
+* caso contrário, consideraremos que são médias.
 
 > Defina a função `$forecast`.

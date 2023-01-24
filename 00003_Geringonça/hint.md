@@ -1,1 +1,1 @@
-Recordá que los caracteres de los strings pueden ser recorridos mediante la estructura de control `for` :wink:
+Lembre-se de que caracteres em strings podem ser percorridos pela estrutura de controle `for` :wink:

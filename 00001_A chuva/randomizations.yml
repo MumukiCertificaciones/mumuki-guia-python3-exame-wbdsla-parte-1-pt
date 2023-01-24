@@ -2,13 +2,11 @@
 forecast: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   type: one_of
   value:
-  - pronostico
-  - pronosticar
-  - generar_pronostico
-  - pronostico_clima
-  - pronostico_del_clima
-  - pronosticar_clima
-  - generar_pronostico_del_clima
+  - previsao
+  - previsao_do_tempo
+  - prever
+  - gerar_previsao
+  - gerar_previsao_do_tempo
 corteAlta: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   type: one_of
   value:

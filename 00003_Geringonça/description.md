@@ -1,4 +1,4 @@
-A _jeringoza_ (geringonça) ou língua do pê é uma forma lúdica de falar em que após cada vogal de uma palavra, a repetimos precedida da letra "p" . Ou seja, se encontrarmos a vogal "o", adicionaremos a sílaba "po", se encontrarmos a vogal "a", adicionaremos "pa" e assim por diante.
+A _jeringoza_ (geringonça) ou _língua do pê_ é uma forma lúdica de falar em que após cada vogal de uma palavra, a repetimos precedida da letra "p" . Ou seja, se encontrarmos a vogal "o", adicionaremos a sílaba "po", se encontrarmos a vogal "a", adicionaremos "pa" e assim por diante.
 
 Estes são alguns exemplos:
 

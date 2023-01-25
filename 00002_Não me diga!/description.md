@@ -15,8 +15,8 @@ False
  
 ```python
 ム str.split("oi tudo bem")
-['Oi', 'tudo', 'bem']
+['oi', 'tudo', 'bem']
 ```
 
-> Eu escrevi a função `e_tabu`.
+> Escreva a função `e_tabu`.
 >

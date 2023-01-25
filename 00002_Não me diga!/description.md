@@ -3,11 +3,11 @@
 É por isso que vamos precisar de uma função `pierde_tabu` que nos diga se a frase contém alguma das palavras proibidas:
 
 ```python
-ム perde_tabu("essa frase vence", ["branco", "preto"])
+ム e_tabu("essa frase vence", ["branco", "preto"])
 False
-ム perde_tabu("essa frase não vence", ["sim", "não"])
+ム e_tabu("essa frase não vence", ["sim", "não"])
 True
-ム perdera_tabu("debaixo a nogueira", ["acima", "árvore", "sombra", "noz"])
+ム perdera_tabu("debaixo da nogueira", ["acima", "árvore", "sombra", "noz"])
 False
 ```
 
@@ -18,5 +18,5 @@ False
 ['Oi', 'tudo', 'bem']
 ```
 
-> Eu escrevi a função `perde_tabu`.
+> Eu escrevi a função `e_tabu`.
 >

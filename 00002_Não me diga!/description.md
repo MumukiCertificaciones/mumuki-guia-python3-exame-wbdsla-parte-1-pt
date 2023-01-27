@@ -1,13 +1,13 @@
 :see_no_evil: _Tabu_ é um jogo onde você não pode dizer certas palavras.
 
-É por isso que vamos precisar de uma função `pierde_tabu` que nos diga se a frase contém alguma das palavras proibidas:
+É por isso que vamos precisar de uma função `e_tabu` que nos diga se a frase contém alguma das palavras proibidas:
 
 ```python
 ム e_tabu("essa frase vence", ["branco", "preto"])
 False
 ム e_tabu("essa frase não vence", ["sim", "não"])
 True
-ム perdera_tabu("debaixo da nogueira", ["acima", "árvore", "sombra", "noz"])
+ム e_tabu("debaixo da nogueira", ["acima", "árvore", "sombra", "noz"])
 False
 ```
 

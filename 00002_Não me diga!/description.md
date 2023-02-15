@@ -3,18 +3,18 @@
 É por isso que vamos precisar de uma função `e_tabu` que nos diga se a frase contém alguma das palavras proibidas:
 
 ```python
-ム e_tabu("essa frase vence", ["branco", "preto"])
+ムe_tabu("essa frase vence", ["branco", "preto"])
 False
-ム e_tabu("essa frase não vence", ["sim", "não"])
+ムe_tabu("essa frase não vence", ["sim", "não"])
 True
-ム e_tabu("debaixo da nogueira", ["acima", "árvore", "sombra", "noz"])
+ムe_tabu("debaixo da nogueira", ["acima", "árvore", "sombra", "noz"])
 False
 ```
 
 :warning: Para resolver este problema, você achará útil a função `str.split`, que, entre outras coisas, permite dividir uma string em palavras:
  
 ```python
-ム str.split("oi tudo bem")
+ムstr.split("oi tudo bem")
 ['oi', 'tudo', 'bem']
 ```
 

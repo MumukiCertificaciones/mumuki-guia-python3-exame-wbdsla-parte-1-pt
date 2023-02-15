@@ -10,8 +10,8 @@ Estes são alguns exemplos:
 > Sabendo disso, defina uma função `$function` que pega uma palavra e a converte em sua variante _jeringoza_:
 >
 > ```python
-> ム $function("gato")
+> ム$function("gato")
 > "gapatopo"
-> ム $function("espelho")
+> ム$function("espelho")
 > "epespepelhopo"
 > ```
